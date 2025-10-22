@@ -6,4 +6,5 @@ build/
 *.iml
 *.iws
 *.ipr
+gradlew
 out/
